@@ -9,9 +9,11 @@ color TFT(ATM0130B3) test program.
 ## parts list
 
 color TFT(ATM0130B3).240 x 240 pixel
+
 https://akizukidenshi.com/catalog/g/gK-15560/
 
-Arduino Pro mini互換.
+Arduino Pro mini compatible.ATmega328P 5V 16MHz.
+
 https://akizukidenshi.com/catalog/g/gK-10347/
 
 
